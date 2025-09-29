@@ -1,3 +1,8 @@
-<video src="spaceinvaders_early_training.mp4" controls width="480"></video>
+## 🎮 DQN Space Invaders Agent Evaluation
 
-<video src="spaceinvaders_later_training.mp4" controls width="480"></video>
+Watch how performance improves as training progresses:
+
+| Episode | Model | Preview | Video |
+|---------|-------|---------|-------|
+| 1       | `early`  | <img src="docs/thumb_early.png" width="120"/> | <a href="https://yourusername.github.io/yourrepo/spaceinvaders_early_training.mp4" target="_blank">▶ Watch</a> |
+| 2       | `later`  | <img src="docs/thumb_later.png" width="120"/> | <a href="https://yourusername.github.io/yourrepo/spaceinvaders_later_training.mp4" target="_blank">▶ Watch</a> |
